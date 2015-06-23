@@ -1,0 +1,6 @@
+.config.old
+include/arch
+picobit-vm
+picobit.hex
+picobit.elf
+.primitives.p
